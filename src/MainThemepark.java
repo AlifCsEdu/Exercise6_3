@@ -4,7 +4,7 @@ public class MainThemepark {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        ThemePark[] ticket = new ThemePark[1];
+        ThemePark[] ticket = new ThemePark[6];
 
         String name;
         String ic;
